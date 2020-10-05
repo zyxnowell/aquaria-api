@@ -12,7 +12,7 @@
 
 Make sure you have NodeJS and MongoDB installed in your system
 
-To start a local server, in the project directory you can run: `node index.js` and it should prompt "Server started at :4000(port). Mongodb connection succeeded".
+To start a local server, in the project directory you can run: `node index.js` and it should prompt `Server started at :4000(port). Mongodb connection succeeded`.
 
 ### Notes:
 
